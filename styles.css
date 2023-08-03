@@ -1,0 +1,50 @@
+.main-title {
+   display: flex;
+   
+   font-family: 'Domine', serif;
+    color: rgb(65, 60, 60);
+    font-size: 90px
+    
+}
+
+.card {
+   margin-top: 10vh;
+   
+}
+
+.carousel-item {
+    opacity: 0.7;
+}
+
+.navbar-brand {
+    font-family: 'Cinzel', serif;
+
+}
+
+.nav-item {
+    font-family: 'Cinzel', serif;
+}
+
+.btn-main {
+    background-color: white;
+}
+
+
+.card-body {
+    background-color: rgba(8, 3, 3, 0.527);
+}
+
+section{
+    text-align: center;
+ 
+}
+
+.card-title {
+    font-family: 'Cinzel', serif;
+}
+
+.btn {
+    color: white;
+    background-color: purple;
+  }
+  
